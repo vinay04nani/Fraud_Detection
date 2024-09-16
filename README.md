@@ -4,12 +4,18 @@ This repository contains a Jupyter Notebook implementing a machine learning mode
 
 # Dataset Requirements
 The code expects a CSV file named Fraud.csv containing the following features:
-# Transaction ID: A unique identifier for each transaction.
-# Amount: The financial amount of the transaction.
-# Time: The timestamp of the transaction.
-# Source: The source of the transaction (e.g., card, bank transfer).
-# Destination: The destination of the transaction (e.g., merchant, account).
-# Other relevant features: Additional features that may be relevant for fraud detection (e.g., location, customer information).
+# Transaction ID:
+A unique identifier for each transaction.
+# Amount: 
+The financial amount of the transaction.
+# Time: 
+The timestamp of the transaction.
+# Source: 
+The source of the transaction (e.g., card, bank transfer).
+# Destination: 
+The destination of the transaction (e.g., merchant, account).
+# Other relevant features: 
+Additional features that may be relevant for fraud detection (e.g., location, customer information).
 Make sure your dataset adheres to this format before running the code.
 
 # Data Preprocessing:
